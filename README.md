@@ -1,4 +1,4 @@
-# firebase_tutorial2
+# firestore_example1
 
 A new Flutter project.
 
